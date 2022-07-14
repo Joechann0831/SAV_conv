@@ -8,8 +8,8 @@
  ### Test
 
  1. Change the current directory to *./LFASR_SAV*.
- 2. Download the test datasets from XXX and put all the files into the directory *./TestData/*.
- 3. Download the checkpoints from XXX and put all the files into the directory *./checkpoint/*.
+ 2. Download the test datasets from [BaiduNetDisk](https://pan.baidu.com/s/1hlYEV7NzHHmyyE-BCojQkA) (Access code: ustc) and put all the files into the directory *./TestData/*.
+ 3. Download the checkpoints from [BaiduNetDisk](https://pan.baidu.com/s/13VqVyUhrpx13NKJR2f5NlA) (Access code: ustc) and put all the files into the directory *./checkpoint/*.
  4. Run the script *./LFASR_testing.py*. An example:
    ```shell
    python LFASR_testing.py --mode="inter28" --save-flag
@@ -21,8 +21,8 @@ There are two benchmark datasets: [BasicLFSR](https://github.com/ZhengyuLiang24/
 ### Test
 
 1. Change the current directory to *./LFSSR_SAV/*.
-2. Download the test datasets from XXX and put all the files into the directory *./TestData/*.
-3. Download the checkpoints from XXX and put all the files into the directory *./checkpoints/*.
+2. Download the test datasets from [BaiduNetDisk](https://pan.baidu.com/s/1g3ONvAV8FVPe6vwDmcwEDA) (Access code: ustc) and put all the files into the directory *./TestData/*.
+3. Download the checkpoints from [BaiduNetDisk](https://pan.baidu.com/s/1ANqRUYMvdd55g8bCKCf9tg) (Access code: ustc) and put all the files into the directory *./checkpoints/*.
 4. If you want to test on the benchmark BasicLFSR, please run the script *./LFSSR_testing_BasicLFSR.py*. An example:
 ```shell
 python LFSSR_testing_BasicLFSR.py --scale=4 --save-flag
