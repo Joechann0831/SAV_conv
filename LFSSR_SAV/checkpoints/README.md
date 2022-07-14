@@ -1,0 +1,1 @@
+Download the checkpoints from [BaiduNetDisk](https://pan.baidu.com/s/1ANqRUYMvdd55g8bCKCf9tg) (Access code: ustc) and put all the files into this directory.
